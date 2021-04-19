@@ -18,3 +18,6 @@ Route::get('/homepage', 'App\Http\Controllers\PageController@homepage');
 Route::get('/category', 'App\Http\Controllers\PageController@category');
 Route::get('/review', 'App\Http\Controllers\PageController@review');
 Route::get('/add_review', 'App\Http\Controllers\PageController@add_review');
+
+Route::resource('posts','App\Http\Controllers\PostsController');
+
