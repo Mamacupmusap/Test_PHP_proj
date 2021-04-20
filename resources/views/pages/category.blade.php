@@ -7,7 +7,7 @@
     <div class="main">
         <div class="card-columns">
             <div class="card">
-              <img src="..." class="card-img-top" alt="...">
+              <img src="https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1038&q=80" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title">Card title that wraps to a new line</h5>
                 <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -24,7 +24,7 @@
               </blockquote>
             </div>
             <div class="card">
-              <img src="..." class="card-img-top" alt="...">
+              <img src="https://images.unsplash.com/photo-1598801823890-60e5d434dbba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1185&q=80" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -49,7 +49,7 @@
               </div>
             </div>
             <div class="card">
-              <img src="..." class="card-img" alt="...">
+              <img src="https://images.unsplash.com/photo-1568053891507-168bcb54b854?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDYyfHxtb3ZpZXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" class="card-img" alt="...">
             </div>
             <div class="card p-3 text-right">
               <blockquote class="blockquote mb-0">
